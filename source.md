@@ -183,6 +183,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
 - [Snap](https://github.com/aliyigitbireroglu/flutter-snap) <!--stargazers:aliyigitbireroglu/flutter-snap--> - Tool/Widget for extensive snap management & snapping between widgets by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [Flick](https://github.com/aliyigitbireroglu/flutter-flick) <!--stargazers:aliyigitbireroglu/flutter-flick--> - Tool/Widget for extensive flick management. Work flawlessly with the snap lib or standalone by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
+- [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 
 #### Material Design
 
@@ -200,7 +201,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Parallax](https://github.com/FlutterRocks/page-transformer) <!--stargazers:FlutterRocks/page-transformer--> - ViewPager by [Iiro Krankka](https://github.com/roughike)
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 - [Wave](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
-- [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - A plugin to provide a Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
+- [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
+
 
 #### Calendar
 
@@ -263,7 +265,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [OAuth](https://github.com/hitherejoe/FlutterOAuth) <!--stargazers:hitherejoe/FlutterOAuth--> - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
 - [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b) <!--claps:@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b--> - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise)
 - [SimpleAuth](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
-- [Flutter AppAuth](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
+- [Flutter AppAuth](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
 
 ### Text & Rich Content
 
@@ -612,6 +614,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Facebook [Page](https://facebook.com/Flutter-Angola-2076395262380886/)
 - Twitter [Page](https://twitter.com/AngolaFlutter)
 
+### 🇦🇺 Australia
+- Slack [GDG Sydney](https://gdg-sydney.slack.com)
+- Meetup [GDG Sydney](https://www.meetup.com/gdgsydney)
+- Twitter [Flutter Sydney](https://twitter.com/FlutterSydney)
+
 ### 🇧🇷 Brazil
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
@@ -650,6 +657,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Twitter [Flutter Berlin](https://twitter.com/flutterBerlin) - [Düsseldorf](https://twitter.com/flutter_school)
 - Slack [Flutter Berlin](https://flutterberlin.slack.com/join/shared_invite/enQtMzQ1NDI0NjU4Mjc5LWVjOTg0NmUxZmU4YzZjZjFkMWNjYWYyYTI5NjMyZWE5MDZjNDM0YzgyNWQyM2EzM2E0NDE4ZmQyMzQyMzRlNjI)
 
+### 🇬🇷 Greece
+
+- Meetup [Athens](https://www.meetup.com/Athens-Flutter-Group/)
+- Slack [Flutter GR](https://join.slack.com/t/fluttergr/shared_invite/enQtNzQwODM2NzIxOTg0LWFjNWYxYzkyMTdmYWQ4ZWYyMWI2YjcyOTI4YzAzYjY2Nzk3OWNkMTkwZGRjNjRiMGFlNzgyOGRhMmEyZTQ3MmM)
+
 ### 🇯🇵 Japan
 
 - Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
@@ -659,6 +671,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com)
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H)
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos)
+
+### 🇵🇱 Poland
+- Meetup [Tricity](https://www.meetup.com/pl-PL/Flutter-Tricity/)
+- Twitter [Tricity](https://twitter.com/FlutterTricity/)
 
 ### 🇵🇹 Portugal
 - [Meetup](https://www.meetup.com/flutterportugal)
